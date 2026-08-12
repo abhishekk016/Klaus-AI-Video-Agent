@@ -2,7 +2,7 @@
 
 **Klaus knows it.**
 
-![Klaus hero screen](./screenshots/hero.png)
+![Klaus hero screen](././screenshots/hero.png)
 
 Klaus turns a video — a YouTube link or a local file — into a transcript, a summary, extracted action items and key decisions, open questions, and a chat interface to ask follow-up questions grounded in that transcript (RAG).
 
@@ -19,8 +19,8 @@ Klaus turns a video — a YouTube link or a local file — into a transcript, a 
 
 | Results | Chat |
 |---|---|
-| ![result1](./screenshots/result1.png) | ![chat](./screenshots/chat.png) |
-| ![results](./screenshots/result2.png) |
+| ![result1](././screenshots/result1.png) | ![chat](././screenshots/chat.png) |
+| ![result2](././screenshots/result2.png) |
 
 
 ## Tech stack
