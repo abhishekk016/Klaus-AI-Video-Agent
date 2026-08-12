@@ -1,0 +1,82 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Whisper / ML cache
+# =========================
+*.pt
+*.pth
+*.bin
+*.onnx
+huggingface/
+.cache/
+
+# =========================
+# Generated files
+# =========================
+uploads/*
+downloads/*
+temp/
+tmp/
+
+# Keep folder structure
+!uploads/.gitkeep
+!downloads/.gitkeep
+
+# =========================
+# Vector Database
+# =========================
+vector_db/
+*.sqlite3
+*.db
+
+# =========================
+# Frontend - Node/Vite
+# =========================
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Frontend environment files
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# =========================
+# Logs
+# =========================
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
