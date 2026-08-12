@@ -19,8 +19,9 @@ Klaus turns a video — a YouTube link or a local file — into a transcript, a 
 
 | Results | Chat |
 |---|---|
-| ![results](screenshots/result1.png) | ![results](screenshots/result1.png) |
-| ![chat](screenshots/chat.png) |
+| ![result1](screenshots/result1.png) | ![chat](screenshots/chat.png) |
+| ![results](screenshots/result2.png) |
+
 
 ## Tech stack
 
